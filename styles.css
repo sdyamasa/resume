@@ -37,6 +37,7 @@ body {
   margin-top: 0px;
   margin-left: auto;
   margin-right: auto;
+  justify-content: center;
   height: 45px;
   width: 1098px;
   padding-bottom: 5px;
